@@ -20,7 +20,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.0"
 REPO_NAME = "db_connector"
-PKG_NAME= "dbconnector"
+PKG_NAME= "dbconnector_auto"
 AUTHOR_USER_NAME = "introvert730180"
 AUTHOR_EMAIL = "ch21btech11001@iith.ac.in"
 
