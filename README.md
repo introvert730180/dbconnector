@@ -1,6 +1,7 @@
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
-
+# for Knowing how to use you can see my latest blog
+https://aidatajourney.wordpress.com/2024/06/09/unleashing-the-power-of-mongodb-with-dbconnector_auto-a-comprehensive-guide/ 
 # difference between requirements_dev.txt and requirements.txt
 
 requirements.txt is used to specify the dependencies required to run the production code of a Python project, while requirements_dev.txt is used to specify the dependencies required for development and testing purposes.
